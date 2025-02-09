@@ -1,7 +1,3 @@
-import textwrap
-
- # Adjust width as needed
-
 from Crypto.Cipher import AES
 
 key = b"SrmapUniversity1"
